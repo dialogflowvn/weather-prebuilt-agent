@@ -1,0 +1,15 @@
+{
+  "name": "weather-prebuilt-agent",
+  "version": "1.0.0",
+  "description": "Thank God, you're here",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "BOSS @ dialogflowvn.wordpress.com",
+  "license": "ISC",
+  "dependencies": {
+    "dialogflow": "^0.1.0",
+    "weather-js": "^2.0.0"
+  }
+}
