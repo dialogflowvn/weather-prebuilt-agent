@@ -1,0 +1,59 @@
+{
+  "id": "ff8c944a-219f-49d5-9572-3c1f0dfd44ce",
+  "name": "weather.outfit",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "weather.outfit",
+      "affectedContexts": [
+        {
+          "name": "weather",
+          "parameters": {},
+          "lifespan": 2
+        }
+      ],
+      "parameters": [
+        {
+          "id": "7244e11e-3490-4ec4-b3e4-bab413c104d4",
+          "dataType": "@outfit",
+          "name": "outfit",
+          "value": "$outfit",
+          "prompts": []
+        },
+        {
+          "id": "01e253ca-5cad-4c76-959b-35617d33cc6e",
+          "dataType": "@sys.location",
+          "name": "address",
+          "value": "$address",
+          "prompts": [],
+          "defaultValue": ""
+        },
+        {
+          "id": "c3c5e274-7158-43ba-b88d-3ba6ce3117e1",
+          "dataType": "@sys.date-time",
+          "name": "date-time",
+          "value": "$date-time",
+          "prompts": [],
+          "defaultValue": ""
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1497455179032,
+  "fallbackIntent": false,
+  "events": []
+}

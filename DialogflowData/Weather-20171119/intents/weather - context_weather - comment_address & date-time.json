@@ -1,0 +1,50 @@
+{
+  "id": "9c17c01c-68a6-4b2b-b461-a0e04cd9bb08",
+  "name": "weather - context:weather - comment:address \u0026 date-time",
+  "auto": true,
+  "contexts": [
+    "weather"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "#weather.intent_action",
+      "affectedContexts": [
+        {
+          "name": "weather",
+          "parameters": {},
+          "lifespan": 2
+        }
+      ],
+      "parameters": [
+        {
+          "id": "503ab81e-f97c-4fb6-9903-90c595519252",
+          "dataType": "@sys.location",
+          "name": "address",
+          "value": "$address"
+        },
+        {
+          "id": "3d3c4881-d8c3-4025-9dcd-1ae5c62955d5",
+          "dataType": "@sys.date-time",
+          "name": "date-time",
+          "value": "$date-time"
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1497455178928,
+  "fallbackIntent": false,
+  "events": []
+}

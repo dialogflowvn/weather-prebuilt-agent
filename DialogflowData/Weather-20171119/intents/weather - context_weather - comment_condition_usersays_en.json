@@ -1,0 +1,38 @@
+[
+  {
+    "id": "9a79cef8-d393-4ba9-b781-0646820be519",
+    "data": [
+      {
+        "text": "what about ",
+        "userDefined": false
+      },
+      {
+        "text": "snowing",
+        "alias": "condition",
+        "meta": "@weather-condition",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "2893d474-e3b0-4806-82fa-f2d24fc609ea",
+    "data": [
+      {
+        "text": "and ",
+        "userDefined": false
+      },
+      {
+        "text": "rain",
+        "alias": "condition",
+        "meta": "@weather-condition",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

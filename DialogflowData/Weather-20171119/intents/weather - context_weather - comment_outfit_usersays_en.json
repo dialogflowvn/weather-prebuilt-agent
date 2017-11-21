@@ -1,0 +1,160 @@
+[
+  {
+    "id": "ed067601-d99d-444d-9139-d5818a3f8951",
+    "data": [
+      {
+        "text": "and ",
+        "userDefined": false
+      },
+      {
+        "text": "raincoat",
+        "alias": "outfit",
+        "meta": "@outfit",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "dbfd0a3f-62ce-4fff-840b-a759f9e50b83",
+    "data": [
+      {
+        "text": "raincoat",
+        "alias": "outfit",
+        "meta": "@outfit",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "b0ab6c42-ffcb-4025-ba66-25deb7c84a37",
+    "data": [
+      {
+        "text": "my ",
+        "userDefined": false
+      },
+      {
+        "text": "coat",
+        "alias": "outfit",
+        "meta": "@outfit",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "47c58621-b596-4bc9-94ab-94027ed8db38",
+    "data": [
+      {
+        "text": "how ",
+        "userDefined": false
+      },
+      {
+        "text": "about",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " my ",
+        "userDefined": false
+      },
+      {
+        "text": "raincoat",
+        "alias": "outfit",
+        "meta": "@outfit",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "197ed00c-365e-4513-aed3-e40ea4e55805",
+    "data": [
+      {
+        "text": "and ",
+        "userDefined": false
+      },
+      {
+        "text": "umbrella",
+        "alias": "outfit",
+        "meta": "@outfit",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  },
+  {
+    "id": "10101c3e-3307-4010-8c29-38b929d8fd47",
+    "data": [
+      {
+        "text": "and my ",
+        "userDefined": false
+      },
+      {
+        "text": "umbrella",
+        "alias": "outfit",
+        "meta": "@outfit",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "cc656db7-5c6a-4885-a831-5c53e7789ccb",
+    "data": [
+      {
+        "text": "how ",
+        "userDefined": false
+      },
+      {
+        "text": "about",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "raincoat",
+        "alias": "outfit",
+        "meta": "@outfit",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "c5be1f22-26d4-44f2-a09f-6324e79fdc0d",
+    "data": [
+      {
+        "text": "what about ",
+        "userDefined": false
+      },
+      {
+        "text": "sunglasses",
+        "alias": "outfit",
+        "meta": "@outfit",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

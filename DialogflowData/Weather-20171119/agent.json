@@ -1,0 +1,36 @@
+{
+  "description": "Help your users get weather updates related to outdoor activities or see if they\u0027ll need that jacket. Through your app, they can ask if rain is heading their way or if they\u0027ll want those sunglasses after all. This agent covers all weather related requests and includes options for clothing and activity related inquiries.",
+  "language": "en",
+  "shortDescription": "Weather and forecast related conversations",
+  "examples": "User: What\u0027s the weather in New York this morning?\nUser: What about Princeton tomorrow?\n\nUser: Is it going to rain this Friday?\nUser: How about Saturday?\nUser: Can you check Seattle?\n\nUser: Should I wear my coat?\nUser: Is the weather good enough to play frisbee outside?\n\nUser: Is hiking a good idea right now?\nUser: How about this weekend?\n\nUser: Do you know if it\u0027s cold outside now?\nUser: Is it going to rain later in the evening?\n\nUser: Will I need an umbrella next Friday in Paris?",
+  "linkToDocs": "",
+  "activeAssistantAgents": [],
+  "disableInteractionLogs": false,
+  "googleAssistant": {
+    "googleAssistantCompatible": false,
+    "project": "weather-689a5",
+    "welcomeIntentSignInRequired": false,
+    "startIntents": [],
+    "systemIntents": [],
+    "endIntentIds": [],
+    "oAuthLinking": {
+      "required": false,
+      "grantType": "AUTH_CODE_GRANT"
+    },
+    "voiceType": "MALE_1",
+    "capabilities": [],
+    "protocolVersion": "V2"
+  },
+  "defaultTimezone": "Asia/Bangkok",
+  "webhook": {
+    "available": false,
+    "useForDomains": false,
+    "cloudFunctionsEnabled": false,
+    "cloudFunctionsInitialized": false
+  },
+  "isPrivate": true,
+  "customClassifierMode": "use.instead",
+  "mlMinConfidence": 0.3,
+  "supportedLanguages": [],
+  "enableOnePlatformApi": true
+}
